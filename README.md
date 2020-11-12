@@ -1,4 +1,4 @@
-# My PokéDex
+# My PockétDex
 
 
 <h1 align="center">
