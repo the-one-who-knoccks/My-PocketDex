@@ -8,7 +8,7 @@ export default createGlobalStyle`
   }
   body {
     color: #fff;
-    background: #7159c1;
+    background: linear-gradient(459.54deg, #7159c1 10%, #00C7C7 100%);
 
   }
   body, input, button, textarea {
