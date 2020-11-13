@@ -1,6 +1,11 @@
-/* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 import React from 'react';
+import GlobalStyle from './styles/global';
 
-const App = () => <h1>Hello</h1>;
+const App: React.FC = () => (
+  <>
+    <GlobalStyle />
+    <h1>Hello World</h1>
+  </>
+);
 
 export default App;
