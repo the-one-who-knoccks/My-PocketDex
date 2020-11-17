@@ -24,7 +24,7 @@
 
    
 
-
+ 
 ## 💻 Projeto
 
 Projeto iniciado como o initúito de desenvolver uma aplicação web integrada com a pokéAPI.
