@@ -10,7 +10,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#memo-licença">Licença</a>      
 </p>                     
-                                                          
+                                                           
                           
 <p align="center">                                                 
             
@@ -30,7 +30,7 @@
 Projeto iniciado como o initúito de desenvolver uma aplicação web integrada com a pokéAPI.
 
 
-
+ 
  
   
 ## :memo: Licença
