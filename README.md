@@ -13,7 +13,7 @@
                                                             
                            
 <p align="center">                                                   
-             
+              
 
   <img alt="Made by" src="https://img.shields.io/static/v1?label=developed&message=the-one-who-knoccks&color=ff0000&labelColor=000000">
   <img alt="Made by" src="https://img.shields.io/static/v1?label=Framework&message=Reactjs&color=2a9df4&labelColor=000000">
